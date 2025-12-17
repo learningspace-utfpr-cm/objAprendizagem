@@ -23,3 +23,7 @@ As peças podem ser encontradas no [arquivo zip](https://github.com/learningspac
 ## Plano de aula
 
 O plano de aula para aplicação do objeto de aprendizagem pode ser encontrado em [plano-de-aula.md](https://github.com/learningspace-utfpr-cm/objAprendizagem/blob/main/plano-de-aula.md) ou em [plano-de-aula.html](https://github.com/learningspace-utfpr-cm/objAprendizagem/blob/main/plano-de-aula.html)
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
