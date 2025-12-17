@@ -1,0 +1,52 @@
+{
+  "general": {
+    "identifier": "domino-logico",
+    "title": "Dominó Lógico",
+    "language": "pt-BR",
+    "description": "Objeto de aprendizagem lúdico para introdução à lógica booleana, utilizando a dinâmica de um jogo de dominó para trabalhar valores lógicos e operadores AND, OR e NOT.",
+    "keywords": [
+      "lógica booleana",
+      "raciocínio lógico",
+      "objeto de aprendizagem",
+      "jogo educativo",
+      "dominó lógico"
+    ]
+  },
+  "lifeCycle": {
+    "version": "1.0",
+    "status": "final",
+    "contribute": {
+      "role": "author",
+      "entity": "Yasmin Poleto",
+      "date": "2025"
+    }
+  },
+  "technical": {
+    "format": "material físico impresso",
+    "requirements": "Peças do dominó lógico impressas ou confeccionadas",
+    "installationRemarks": "Não se aplica",
+    "otherPlatformRequirements": "Ambiente de sala de aula ou espaço adequado para jogos de mesa"
+  },
+  "educational": {
+    "learningResourceType": "jogo educativo",
+    "interactivityType": "ativa",
+    "interactivityLevel": "médio",
+    "intendedEndUserRole": "aluno",
+    "context": "ensino médio",
+    "difficulty": "fácil",
+    "typicalLearningTime": "PT50M",
+    "description": "Aprendizagem baseada em jogo para desenvolvimento do raciocínio lógico e compreensão de expressões booleanas."
+  },
+  "rights": {
+    "cost": "não",
+    "copyrightAndOtherRestrictions": "sim",
+    "description": "Uso educacional permitido. Distribuído sob licença MIT."
+  },
+  "classification": {
+    "purpose": "disciplina",
+    "taxonPath": {
+      "source": "BNCC",
+      "taxon": ["Ciência da Computação", "Matemática"]
+    }
+  }
+}
